@@ -106,7 +106,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						Promoting an equal and healthy society where each individual is respected for what one is and
 						not one scores
 						Building self dignity among those individuals who are looked down by the society
-						Finally, creating an inclusive world for all.</p>
+						Finally, creating an inclusive world for all</p>
 					<h4 class="about-second">Our Contribution Towards Education</h4>
 					<p>We at CAVE, offer 2 programmes for 10th std and 2nd PUC failed students respectively. Under
 						“Integrated Programme” we admit 10th std failed students for I PUC and provide coaching for 10th
@@ -183,9 +183,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="services-moksrow">
 				<div class="col-xs-4 services-grids-w3l">
 					<div class="servi-shadow">
-						<span class="fa fa-building icon" aria-hidden="true"></span>
+						<span class="fa fa-bullhorn icon" aria-hidden="true"></span>
 						<h4>Student Accommodation</h4>
-						<p>Student Accommodation will be arranged based on parents request only.</p>
+						<p>Student Accommodation will be arranged based on parents request only</p>
 					</div>
 				</div>
 				<div class="col-xs-4 services-grids-w3l">
@@ -199,7 +199,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="servi-shadow">
 						<span class="fa fa-book icon" aria-hidden="true"></span>
 						<h4>Book Library</h4>
-						<p>It has an extensive collection of books for academic and research needs of the students.</p>
+						<p>It has an extensive collection of books for academic and research needs of the students</p>
 					</div>
 				</div>
 				<div class="clearfix"> </div>
@@ -216,7 +216,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="servi-shadow">
 						<span class="fa fa-comments icon" aria-hidden="true"></span>
 						<h4>SMS</h4>
-						<p>Information sent by SMS to the numbers registered with the institution.</p>
+						<p>Information sent by SMS to the numbers registered with the institution .</p>
 					</div>
 				</div>
 				<div class="col-xs-4 services-grids-w3l">
@@ -464,8 +464,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div>
 						<div class="col-xs-9 three_testimonials_grid">
 							<div class="three_testimonials_grid1">
-								<h5>Student Name</h5>
-								<p>Student 1</p>
+								<h5>Michael Paul</h5>
+								<p>Client 1</p>
 							</div>
 							<p>
 								Donec laoreet eu purus eu viverra. Vestibulum sed convallis massa, eu aliquet massa.
@@ -485,8 +485,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div>
 						<div class="col-xs-9 three_testimonials_grid">
 							<div class="three_testimonials_grid1">
-								<h5>Student Name</h5>
-								<p>Student 2</p>
+								<h5>Faul John</h5>
+								<p>Client 2</p>
 							</div>
 							<p>
 								Donec laoreet eu purus eu viverra. Vestibulum sed convallis massa, eu aliquet massa.
@@ -506,8 +506,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div>
 						<div class="col-xs-9 three_testimonials_grid">
 							<div class="three_testimonials_grid1">
-								<h5>Student Name</h5>
-								<p>Student 3</p>
+								<h5>Richa Roy</h5>
+								<p>Client 3</p>
 							</div>
 							<p>
 								Donec laoreet eu purus eu viverra. Vestibulum sed convallis massa, eu aliquet massa.

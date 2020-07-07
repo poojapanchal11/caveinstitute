@@ -71,16 +71,17 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<div class="styled-input agile-styled-input-top">
 							<select class="category2" required="">
 								<option value="">Select Course</option>
-								<option value="">B.Com</option>
-								<option value="">Second P.U.C Direct </option>
-								<option value="">Integrated Programme </option>
-								<option value="">10th NIOS </option>
-								<option value="">12th NIOS </option>
-								<option value="">Skill Development Course </option>
+								<option value="">Web Designing</option>
+								<option value="">Web Technology </option>
+								<option value="">PC Systems </option>
+								<option value="">IT Foundations </option>
+								<option value="">HR Management </option>
+								<option value="">Modeling </option>
+								<option value="">Basic Marketing</option>
 							</select>
 							<span></span>
 						</div>
-						<!-- <div class="styled-input">
+						<div class="styled-input">
 							<div class="agileits_w3layouts_grid">
 								<select class="category2" name="category1" required="">
 									<option value="">Select Course Time</option>
@@ -91,7 +92,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									<option value="">Hours: 7pm - 9pm</option>
 								</select>
 							</div>
-						</div> -->
+						</div>
 						<div class="styled-input">
 							<label class="header">Your Address</label>
 							<div class="">

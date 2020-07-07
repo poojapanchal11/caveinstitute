@@ -48,7 +48,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="row">
 					<div class="col-md-4">
 						<a href="images/g3.jpg" class="imghvr-hinge-right figure">
-							<img  src="images/g3.jpg" alt="" title="" />
+							<img src="images/g3.jpg" alt="" title="Our Computer Lab" />
 							<!-- <div class="agile-figcaption">
 							<h4>Computer Lab</h4>
 						</div> -->
@@ -57,7 +57,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="col-md-4">
 						
 							<a href="images/g4.jpg" class="imghvr-hinge-right figure">
-								<img class="gallery-img" src="images/g4.jpg" alt="" title="" />
+								<img src="images/g4.jpg" alt="" title="Meditation" />
 								<!-- <div class="agile-figcaption">
 							<h4>Meditation</h4>
 						</div> -->
@@ -67,7 +67,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="col-md-4">
 						
 							<a href="images/g1.jpg" class="imghvr-hinge-right figure">
-								<img class="gallery-img" src="images/g1.jpg" alt="" title="" />
+								<img src="images/g1.jpg" alt="" title="Science" />
 								<!-- <div class="agile-figcaption">
 							<h4>Science</h4>
 						</div> -->
@@ -79,7 +79,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="col-md-4">
 						
 							<a href="images/g6.jpg" class="imghvr-hinge-right figure">
-								<img src="images/g6.jpg" alt="" title="" />
+								<img src="images/g6.jpg" alt="" title="Group Discussion" />
 								<!-- <div class="agile-figcaption">
 							<h4>Group Discussion</h4>
 						</div> -->
@@ -89,7 +89,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="col-md-4">
 						
 							<a href="images/g2.jpg" class="imghvr-hinge-right figure">
-								<img class="gallery-img" src="images/g2.jpg" alt="" title="" />
+								<img src="images/g2.jpg" alt="" title="Chemical Lab" />
 								<!-- <div class="agile-figcaption">
 							<h4>Chemical Lab</h4>
 						</div> -->
@@ -99,7 +99,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="col-md-4">
 					
 							<a href="images/g5.jpg" class="imghvr-hinge-right figure">
-								<img class="gallery-img" src="images/g5.jpg" alt="" title="" />
+								<img src="images/g5.jpg" alt="" title="Our Sports" />
 								<!-- <div class="agile-figcaption">
 							<h4>Sports</h4>
 						</div> -->

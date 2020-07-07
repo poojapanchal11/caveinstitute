@@ -96,16 +96,16 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="sub-footer">
 			<div class="container">
 				<div class="mkls_footer_grid">
-					<div class="col-md-4 mkls_footer_grid_left">
-						<h4>Marathahalli Branch</h4>
+					<div class="col-xs-4 mkls_footer_grid_left">
+						<h4>Our Branches:</h4>
 						<p>Cave Institutions
-							<br> Krishna senate building, 3rd floor
+							<br> Krishna senate building ,3rd floor
 							outter Ring Rd,Subbaiah Reddy Colony,
 							Aswath Nagar, Marathahalli <br>
 							Bangalore,
 							Karnataka 560037</p>
 					</div>
-					<div class="col-md-4 mkls_footer_grid_left">
+					<div class="col-xs-4 mkls_footer_grid_left">
 						<h4>Chandapura Branch</h4>
 						<p>Cave Institutions <br>
 							Bank of Maharastra - Chandapura Branch 85,
@@ -115,7 +115,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							Marsur,
 							Karnataka 562107</p>
 					</div>
-					<div class="col-md-4 mkls_footer_grid_left_contact">
+					<div class="col-xs-4 mkls_footer_grid_left_contact">
 						<h4>Contact Details:</h4>
 						<p>
 							<span>Person : </span>Ravi Teja</p>
@@ -162,31 +162,31 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="container">
 				<div class="allah-copy">
 					<p>© 2020 Cave Institutions. All rights reserved | Design by
-						<a target="_blank" href="https://chromozomes.com/">Chromozome Network</a>
+						<a href="https://chromozomes.com/">Chromozomes</a>
 					</p>
 				</div>
 				<div class="footercopy-social">
 					<ul>
 						<li>
-							<a target="_blank" href="https://www.facebook.com/caveinstitution/">
+							<a href="#">
 								<span class="fa fa-facebook"></span>
 							</a>
 						</li>
 						<li>
-							<a target="_blank" href="https://twitter.com/Ravitej77295374">
+							<a href="#">
 								<span class="fa fa-twitter"></span>
 							</a>
 						</li>
 						<li>
-						<a target="_blank" href="https://www.youtube.com/channel/UCaW3vbO3w9Zc2pRmNe1piMQ?view_as=subscriber">
-							<span class="fa fa-youtube-play"></span>
-						</a>
-					</li>
-					<li>
-						<a target="_blank" href="https://www.instagram.com/cave_institutions/">
-							<span class="fa fa-instagram"></span>
-						</a>
-					</li>
+							<a href="#">
+								<span class="fa fa-rss"></span>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<span class="fa fa-vk"></span>
+							</a>
+						</li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>

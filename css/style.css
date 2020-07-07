@@ -96,7 +96,7 @@ label {
 }
 
 .bottom-social-icons {
-    width: 51%;
+    width: 50%;
     float: left;
 }
 
@@ -1176,15 +1176,15 @@ a.button-style:hover {
     opacity: 0.8;
 }
 
-.footercopy-social ul li a span.fa.fa-youtube-play {
+.footercopy-social ul li a span.fa.fa-rss {
     background: #f26522;
 }
 
-.footercopy-social ul li a span.fa.fa-youtube-play:hover {
+.footercopy-social ul li a span.fa.fa-rss:hover {
     opacity: 0.8;
 }
 
-.footercopy-social ul li a span.fa.fa-instagram {
+.footercopy-social ul li a span.fa.fa-vk {
     background: #45668e;
 }
 .footercopy-social ul li a span{
@@ -2542,7 +2542,7 @@ h3.title-w3l.w3l-2:before {
     height: 64px;
     border: none;
     text-indent: 100%;
-    background: url("../images/up-arrow.png") no-repeat 0px 0px;
+    background: url("../images/arrow.png") no-repeat 0px 0px;
 }
 
 #toTopHover {
@@ -3330,9 +3330,6 @@ h3.title-w3l.w3l-2:before {
     .bottom_header_right {
         width: 41%;
     }
-    .gallery-img{
-        padding-top: 1em;
-    }
     .carousel-caption h3 {
         font-size: 32px;
     }
@@ -3418,20 +3415,12 @@ h3.title-w3l.w3l-2:before {
         min-height: 11.5em;
     }
     .contact-grid {
-            margin-top: 8em;
-        padding: 4em 0 4em;
+        padding: 1em 0 4em;
         width: 90%;
     }
     .login-form {
         width: 90%;
     }
-    .load_more {
-        padding: 3em 2em;
-    }
-    .demo{
-        padding: 3em 2em !;
-    }
-
 }
 
 @media(max-width: 480px) {
@@ -4062,7 +4051,7 @@ a.wrimagecard:hover,
 
 .wrimagecard-topimage_title {
     padding: 20px 24px;
-    height: 322px;
+    height: 312px;
     padding-bottom: 0.75rem;
     position: relative;
 }
@@ -4089,7 +4078,7 @@ a.wrimagecard:hover,
 }
 .demo{
     background-color:#EE7C00;
-    padding: 4em 2em;
+    padding: 4em;
 }
 
 /* faq */
@@ -4139,7 +4128,7 @@ a.wrimagecard:hover,
     sans-serif;
 }
 .load_more{
-    padding: 3em 2em;
+    padding: 4em;
 }
 .margin-top-demo{
     
